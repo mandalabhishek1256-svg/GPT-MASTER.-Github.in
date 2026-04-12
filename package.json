@@ -1,0 +1,1 @@
+{\n  "name": "weather-dashboard",\n  "version": "1.0.0",\n  "description": "A simple weather dashboard using OpenWeatherMap API",\n  "main": "app.js",\n  "scripts": {\n    "start": "live-server"\n  },\n  "dependencies": {\n    "axios": "^0.21.1"\n  }\n}
